@@ -1,28 +1,24 @@
 {
   "resimler": [
-    {
+       {
       "baslik": "Ana Ekran",
       "aciklama": "Programın ana ekran genel görünümü",
-      "resim_adi": "tanitim1",
-      "uzanti": "jpg"
+      "resim_url": "https://raw.githubusercontent.com/Barbar16/dosyalar/main/tanitim1.jpg"
     },
-    {
-      "baslik": "Ürün İşlemleri",
-      "aciklama": "Ürün ekleme ve düzenleme ekranı",
-      "resim_adi": "tanitim2",
-      "uzanti": "jpg"
+        {
+      "baslik": "Ürün ekleme",
+      "aciklama": "Ürün ekleme ve düzenleme ekran",
+      "resim_url": "https://raw.githubusercontent.com/Barbar16/dosyalar/main/tanitim2.jpg"
     },
-    {
-      "baslik": "Rapor ve Ayarlar",
-      "aciklama": "Raporlama ve ayar ekranlarının görünümü",
-      "resim_adi": "tanitim3",
-      "uzanti": "jpg"
+      {
+      "baslik": "Ana Ekran",
+      "aciklama": "Programın ana ekran genel görünümü",
+      "resim_url": "https://raw.githubusercontent.com/Barbar16/dosyalar/main/tanitim3.jpg"
     },
-    {
-      "baslik": "Rapor ve Ayarlar",
-      "aciklama": "Raporlama",
-      "resim_adi": "tanitim4",
-      "uzanti": "jpg"
+      {
+      "baslik": "Ana Ekran",
+      "aciklama": "Programın ana ekran genel görünümü",
+      "resim_url": "https://raw.githubusercontent.com/Barbar16/dosyalar/main/tanitim4.jpg"
     }
   ]
 }
