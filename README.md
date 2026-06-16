@@ -36,12 +36,15 @@ Programın detaylı tanıtımı, kurulum videosu, indirme bağlantıları ve kul
 ## Giriş Bilgileri
 
 İlk kurulum sonrası varsayılan giriş bilgileri:
+
 Kullanıcı adı:
+
 ```text
  admin
 ```
-```text
 Şifre:
+
+```text
 admin
 ```
 Programı kullanırken karşılaştığınız hataları, geliştirme önerilerinizi veya eklenmesini istediğiniz özellikleri paylaşabilirsiniz. Geri bildirimler programın gelişmesine yardımcı olur.
