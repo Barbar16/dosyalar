@@ -38,7 +38,7 @@ Programın detaylı tanıtımı, kurulum videosu, indirme bağlantıları ve kul
 
 İlk kurulum sonrası varsayılan giriş bilgileri:
 
-```text
+
 Kullanıcı adı: admin
 Şifre: admin
 ````
