@@ -40,6 +40,6 @@ Programın detaylı tanıtımı, kurulum videosu, indirme bağlantıları ve kul
 ```text
 Kullanıcı adı: admin
 Şifre: admin
-Geri Bildirim
+```
 
 Programı kullanırken karşılaştığınız hataları, geliştirme önerilerinizi veya eklenmesini istediğiniz özellikleri paylaşabilirsiniz. Geri bildirimler programın gelişmesine yardımcı olur.
