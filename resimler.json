@@ -1,0 +1,28 @@
+{
+  "resimler": [
+    {
+      "baslik": "Ana Ekran",
+      "aciklama": "Programın ana ekran genel görünümü",
+      "resim_adi": "tanitim1",
+      "uzanti": "jpg"
+    },
+    {
+      "baslik": "Ürün İşlemleri",
+      "aciklama": "Ürün ekleme ve düzenleme ekranı",
+      "resim_adi": "tanitim2",
+      "uzanti": "jpg"
+    },
+    {
+      "baslik": "Rapor ve Ayarlar",
+      "aciklama": "Raporlama ve ayar ekranlarının görünümü",
+      "resim_adi": "tanitim3",
+      "uzanti": "jpg"
+    },
+    {
+      "baslik": "Rapor ve Ayarlar",
+      "aciklama": "Raporlama ve ayar ekranlarının görünümü",
+      "resim_adi": "tanitim3",
+      "uzanti": "jpg"
+    }
+  ]
+}
