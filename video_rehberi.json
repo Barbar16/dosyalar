@@ -1,3 +1,36 @@
 {
-  "bilgilendirme_html": "<div style='font-family:Arial; color:#1f2937;'><h2 style='text-align:center; color:#1e3a8a;'>Marketim Program Tanıtımı</h2><p style='text-align:center;'>Aşağıdaki başlıklara tıklayarak videonun ilgili bölümünü açabilirsiniz.</p><div style='text-align:center; margin:12px;'><a href='https://youtu.be/ioDNkaF3who' style='font-size:16px; font-weight:bold;'>▶ Videoyu Baştan İzle</a></div><hr><h3><a href='https://youtu.be/ioDNkaF3who?t=0'>00:00 GENEL KURULUM VE ÜRÜN YÖNETİMİ</a></h3><ul><li>Program kurulum süreci</li><li>Stok uyarı sistemi</li><li>Lisanslama işlemleri</li><li>Yeni üye kaydı</li><li>Ürün tanımlama</li><li>Ürün gruplandırma, düzenleme ve kopyalama</li></ul><h3><a href='https://youtu.be/ioDNkaF3who?t=229'>03:49 ETİKET, TARTILI ÜRÜN VE HIZLI SATIŞ YÖNETİMİ</a></h3><ul><li>Tartılı ürün tanımlama</li><li>Barkodlu etiket ayarları</li><li>İndirimli etiket basımı</li><li>En ürünlerin listelenmesi</li><li>Ürün hareketlerinin görüntülenmesi</li><li>Hızlı menüye ürün ekleme</li><li>Ürün görseli yükleme</li></ul><h3><a href='https://youtu.be/ioDNkaF3who?t=481'>08:01 SATIŞ, CARİ VE FİYATLANDIRMA İŞLEMLERİ</a></h3><ul><li>İkinci fiyat tanımlamaları</li><li>İndirim uygulama işlemleri</li><li>Satışları sepete geri aktarma</li><li>Müşteri ve firma cari işlemleri</li><li>Kredi kartı kesinti oranı</li><li>Yedek alma ve geri yükleme</li></ul><h3><a href='https://youtu.be/ioDNkaF3who?t=967'>16:07 TOPLU FİYAT, KÂR MARJI VE RAPORLAMA</a></h3><ul><li>Toplu fiyat düzenleme</li><li>Kâr marjı düzenleme</li><li>Yüzde bazlı fiyat artırma ve eksiltme</li><li>Ürün hareketleri</li><li>Kategori ve grup bazlı istatistikler</li><li>Firma bazlı karşılaştırma</li></ul><h3><a href='https://youtu.be/ioDNkaF3who?t=1350'>22:30 TEDARİK VE STOK GÜNCELLEME</a></h3><ul><li>Otomatik tedarik ihtiyacı hesaplama</li><li>Ürünleri stoğa ekleme</li><li>Kontrollü stok girişi</li><li>Ürün fiyatı güncelleme</li></ul><h3><a href='https://youtu.be/ioDNkaF3who?t=1714'>28:34 EXCEL İLE TOPLU FİYAT GÜNCELLEME</a></h3><ul><li>Excel üzerinden fiyat güncelleme</li><li>Kayıt öncesi kontrol</li><li>Satış fiyatı ve kâr marjı düzenleme</li></ul><h3><a href='https://youtu.be/ioDNkaF3who?t=1953'>32:33 SİSTEM YÖNETİMİ VE KASA FİŞİ AYARLARI</a></h3><ul><li>Kullanıcı yetkilendirme</li><li>Veri tabanı bakımı</li><li>Eski kayıtları silme</li><li>Kasa fişi açıklama ve ayarları</li></ul><h3><a href='https://youtu.be/ioDNkaF3who?t=2008'>33:28 DETAYLI RAPORLAMA VE ANALİZLER</a></h3><ul><li>Günlük kâr/zarar ve kasa raporları</li><li>Grup bazlı analizler</li><li>Ürün bazlı fiyat geçişleri</li><li>Zaman bazlı satış analizleri</li><li>Stok değer analizleri</li><li>Excel’e aktarma</li></ul></div>"
+  "html": [
+    "<h2 style='text-align:center; color:#1e3a8a;'>Marketim Program Tanıtımı</h2>",
+    "<p style='text-align:center;'>Başlıklara tıklayarak videonun ilgili bölümünü açabilirsiniz.</p>",
+    "<p style='text-align:center;'><a href='https://youtu.be/ioDNkaF3who'>▶ Videoyu Baştan İzle</a></p>",
+    "<hr>",
+    "<h3><a href='https://youtu.be/ioDNkaF3who?t=0'>00:00 GENEL KURULUM VE ÜRÜN YÖNETİMİ</a></h3>",
+    "<ul>",
+    "<li>Program kurulum süreci</li>",
+    "<li>Stok uyarı sistemi</li>",
+    "<li>Lisanslama işlemleri</li>",
+    "<li>Yeni üye kaydı</li>",
+    "<li>Ürün tanımlama</li>",
+    "<li>Ürün gruplandırma, düzenleme ve kopyalama</li>",
+    "</ul>",
+
+    "<h3><a href='https://youtu.be/ioDNkaF3who?t=229'>03:49 ETİKET, TARTILI ÜRÜN VE HIZLI SATIŞ YÖNETİMİ</a></h3>",
+    "<ul>",
+    "<li>Tartılı ürün tanımlama</li>",
+    "<li>Barkodlu etiket ayarları</li>",
+    "<li>İndirimli etiket basımı</li>",
+    "<li>Ürün hareketlerinin görüntülenmesi</li>",
+    "<li>Hızlı menüye ürün ekleme</li>",
+    "<li>Ürün görseli yükleme</li>",
+    "</ul>",
+
+    "<h3><a href='https://youtu.be/ioDNkaF3who?t=481'>08:01 SATIŞ, CARİ VE FİYATLANDIRMA İŞLEMLERİ</a></h3>",
+    "<ul>",
+    "<li>İkinci fiyat tanımlamaları</li>",
+    "<li>İndirim uygulama işlemleri</li>",
+    "<li>Müşteri ve firma cari işlemleri</li>",
+    "<li>Kredi kartı kesinti oranı</li>",
+    "<li>Yedek alma ve geri yükleme</li>",
+    "</ul>"
+  ]
 }
