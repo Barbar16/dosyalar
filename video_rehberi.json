@@ -1,17 +1,18 @@
-"duyurular": [
-  {
-    "baslik": "📱 Marketim Android Yayında",
-    "tarih": "24.06.2026",
-    "metin": "Marketim Android uygulamasını indirip telefonunuzdan satış, stok ve tedarik işlemlerini yönetebilirsiniz.",
-    "link": "https://github.com/Barbar16/Marketim_APK/releases/download/V1.0.0/Marketim.apk"
-  },
-  {
-    "baslik": "💻 Marketim Masaüstü Programı",
-    "tarih": "24.06.2026",
-    "metin": "Marketim masaüstü programı için güncel indirme bağlantısı.",
-    "link": "BURAYA_PROGRAM_LINKI"
-  }
-],
+{
+  "duyurular": [
+    {
+      "baslik": "📱 Marketim Android Yayında",
+      "tarih": "24.06.2026",
+      "metin": "Marketim Android uygulamasını indirip telefonunuzdan satış, stok ve tedarik işlemlerini yönetebilirsiniz.",
+      "link": "https://github.com/Barbar16/Marketim_APK/releases/download/V1.0.0/Marketim.apk"
+    },
+    {
+      "baslik": "💻 Marketim Masaüstü Programı",
+      "tarih": "24.06.2026",
+      "metin": "Marketim masaüstü programı için güncel indirme bağlantısı.",
+      "link": "https://drive.google.com/file/d/1urpUOYJZrsQgQoLiLEiAKiSqjqNkXBKR/view?usp=sharing"
+    }
+  ],
   "videolar": [
     {
       "baslik": "Genel Tanıtım",
