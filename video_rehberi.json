@@ -1,14 +1,11 @@
 {
   "duyurular": [
     {
-      "tip": "guncelleme",
       "baslik": "Yeni Güncelleme",
       "tarih": "24.06.2026",
-      "html": "<b>Excel fiyat güncelleme</b> ekranı yenilendi.<br>Yeni kontrol sistemi eklendi."
+      "metin": "Excel fiyat güncelleme ekranı yenilendi."
     }
-  ]
-}
-{
+  ],
   "videolar": [
     {
       "baslik": "Genel Tanıtım",
