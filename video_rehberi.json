@@ -4,7 +4,112 @@
       "baslik": "Genel Tanıtım",
       "aciklama": "Programın genel kullanımı ve ilk ayarlar",
       "resim_url": "https://raw.githubusercontent.com/Barbar16/dosyalar/main/video1.JPG",
-      "youtube_url": "https://youtu.be/ioDNkaF3who"
+      "youtube_url": "https://youtu.be/ioDNkaF3who",
+      "bolumler": [
+        {
+          "zaman": "00:00",
+          "saniye": 0,
+          "ana_baslik": "GENEL KURULUM VE ÜRÜN YÖNETİMİ",
+          "detaylar": [
+            "Program kurulum süreci",
+            "Stok uyarı sistemi",
+            "Lisanslama işlemleri (isteğe bağlı)",
+            "Yeni üye kaydı",
+            "Ürün tanımlama",
+            "Ürün gruplandırma, düzenleme ve kopyalama"
+          ]
+        },
+        {
+          "zaman": "03:49",
+          "saniye": 229,
+          "ana_baslik": "ETİKET, TARTILI ÜRÜN VE HIZLI SATIŞ YÖNETİMİ",
+          "detaylar": [
+            "Tartılı ürün tanımlama",
+            "Barkodlu etiket ayarları",
+            "İndirimli etiket basımı",
+            "\"En\" ürünlerin listelenmesi",
+            "Çift tıklama ile ürün hareketlerinin görüntülenmesi",
+            "Satış ekranındaki hızlı menüye ürün ekleme",
+            "Ürün görseli yükleme",
+            "Hızlı satış menüsündeki ürün görsellerinin ayarlanması"
+          ]
+        },
+        {
+          "zaman": "08:01",
+          "saniye": 481,
+          "ana_baslik": "SATIŞ, CARİ VE FİYATLANDIRMA İŞLEMLERİ",
+          "detaylar": [
+            "İkinci (özel) fiyat tanımlamaları",
+            "İndirim uygulama işlemleri",
+            "Kaydedilen satışların sepete geri aktarılması ve ayarları",
+            "Müşteri ve firma cari işlemleri",
+            "Kredi kartı kesinti oranı tanımlama ve kaydetme",
+            "Yedek alma ve geri yükleme işlemleri"
+          ]
+        },
+        {
+          "zaman": "16:07",
+          "saniye": 967,
+          "ana_baslik": "TOPLU FİYAT, KÂR MARJI VE RAPORLAMA",
+          "detaylar": [
+            "Toplu/grup satış ve alış fiyatı düzenleme",
+            "Toplu/grup kâr marjı düzenleme",
+            "Toplu/grup yüzde bazlı fiyat artırma ve eksiltme",
+            "Ürün hareketlerinin listelenmesi",
+            "Grup ve kategori bazlı ayrıntılı kâr/zarar istatistikleri",
+            "Tarih aralığına göre kâr/zarar istatistikleri",
+            "Firma bazlı tarih aralığı kâr/zarar karşılaştırması",
+            "Hızlı karşılaştırma tablosu"
+          ]
+        },
+        {
+          "zaman": "22:30",
+          "saniye": 1350,
+          "ana_baslik": "TEDARİK VE STOK GÜNCELLEME",
+          "detaylar": [
+            "Otomatik tedarik ihtiyacı hesaplama",
+            "Ürünleri doğrudan stoğa ekleme",
+            "Ürün teslim alındıktan sonra kontrollü stok girişi",
+            "Aynı ekran üzerinden ürün fiyatı güncelleme"
+          ]
+        },
+        {
+          "zaman": "28:34",
+          "saniye": 1714,
+          "ana_baslik": "EXCEL İLE TOPLU FİYAT GÜNCELLEME",
+          "detaylar": [
+            "Excel üzerinden toplu fiyat güncelleme",
+            "Kayıt öncesi fiyat ve kâr marjı kontrolü",
+            "Kayıt öncesi satış fiyatı ve kâr marjı düzenleme imkânı",
+            "Yalnızca satış fiyatını güncelleme imkânı"
+          ]
+        },
+        {
+          "zaman": "32:33",
+          "saniye": 1953,
+          "ana_baslik": "SİSTEM YÖNETİMİ VE KASA FİŞİ AYARLARI",
+          "detaylar": [
+            "Kullanıcı yetkilendirme",
+            "Veri tabanı bakımı",
+            "Eski kayıtları silme işlemleri (gerektiği durumlarda)",
+            "Kasa fişi alt/üst açıklama ve ayarları"
+          ]
+        },
+        {
+          "zaman": "33:28",
+          "saniye": 2008,
+          "ana_baslik": "SİSTEM YÖNETİMİ VE KASA FİŞİ AYARLARI",
+          "detaylar": [
+            "Günlük kâr/zarar, veresiye, toplam ciro ve kasa raporları",
+            "Grup bazlı analizler",
+            "Ürün bazlı fiyat geçişleri ve kâr marjları",
+            "Zaman bazlı satış analizleri",
+            "Stok değer analizleri",
+            "Excel’e aktarma"
+          ]
+        }
+      ]
     }
   ]
 }
+
