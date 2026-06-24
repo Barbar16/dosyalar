@@ -1,4 +1,19 @@
 {
+  "destek": {
+    "aktif": true,
+    "baslik": "Marketim Destek",
+    "aciklama": "Kurulum, kullanım ve hata bildirimleri için Telegram üzerinden bize özel mesaj gönderebilirsiniz.",
+    "butonlar": [
+      {
+        "yazi": "Telegram Destek",
+        "url": "https://t.me/MarketimDestek"
+      },
+      {
+        "yazi": "E-posta Gönder",
+        "url": "mailto:kuluckaci@gmail.com.com?subject=Marketim Destek Talebi"
+      }
+    ]
+  },
   "duyurular": [
     {
       "baslik": "📱 Marketim Android Yayında",
