@@ -1,19 +1,19 @@
 {
   "destek": {
-    "aktif": true,
-    "baslik": "Marketim Destek",
-    "aciklama": "Kurulum, kullanım ve hata bildirimleri için Telegram üzerinden bize özel mesaj gönderebilirsiniz.",
-    "butonlar": [
-      {
-        "yazi": "Telegram Destek",
-        "url": "https://t.me/MarketimDestek"
-      },
-      {
-        "yazi": "E-posta Gönder",
-        "url": "mailto:kuluckaci@gmail.com.com?subject=Marketim Destek Talebi"
-      }
-    ]
-  },
+  "aktif": true,
+  "baslik": "Marketim Destek",
+  "aciklama": "Kurulum, kullanım ve hata bildirimleri için Telegram veya e-posta üzerinden bize ulaşabilirsiniz.",
+  "butonlar": [
+    {
+      "yazi": "Telegram Destek",
+      "url": "https://t.me/MarketimDestek"
+    },
+    {
+      "yazi": "E-posta Gönder",
+      "url": "https://mail.google.com/mail/?view=cm&fs=1&to=kuluckaci@gmail.com&su=Marketim%20Destek%20Talebi&body=Merhaba,%20Marketim%20programi%20ile%20ilgili%20destek%20almak%20istiyorum."
+    }
+  ]
+},
   "duyurular": [
     {
       "baslik": "📱 Marketim Android Yayında",
