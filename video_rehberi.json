@@ -16,22 +16,10 @@
   },
   "duyurular": [
     {
-      "baslik": "📱 Marketim Android 1.0.0",
-      "tarih": "22.03.2024",
-      "metin": "Marketim Android uygulamasını indirip telefonunuzdan satış, stok ve tedarik işlemlerini yönetebilirsiniz (kararlı sürüm).",
-      "link": "https://github.com/Barbar16/Marketim_APK/releases/download/V1.0.0/Marketim.apk"
-    },
-    {
       "baslik": "📱 Marketim Android 1.0.1",
       "tarih": "26.06.2026",
       "metin": "Marketim Android uygulamasını indirip telefonunuzdan satış, stok ve tedarik işlemlerini yönetebilirsiniz (güncel sürüm).",
       "link": "https://github.com/Barbar16/Marketim_APK/raw/refs/heads/main/Marketim1_0_1.apk"
-    },
-    {
-      "baslik": "💻 Marketim Masaüstü Programı 10.40",
-      "tarih": "17.01.2024",
-      "metin": "Marketim masaüstü programı için güncel ve kararlı sürüm indirme bağlantısı.",
-      "link": "https://drive.google.com/file/d/1XlhX7clFJAGHgtSkERLGyCE-bE0yz5JB/view?usp=sharing"
     },
     {
       "baslik": "💻 Marketim Masaüstü Programı 10.41",
