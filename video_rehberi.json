@@ -2,7 +2,7 @@
   "destek": {
     "aktif": true,
     "baslik": "Marketim Destek",
-    "aciklama": "Kurulum, kullanım ve hata bildirimleri için Telegram veya e-posta üzerinden bize ulaşabilirsiniz Video çekiminden sonra eklenen yeni özellikler bu anlatımda yer almayabilir",
+    "aciklama": "Kurulum, kullanım ve hata bildirimleri için Telegram veya e-posta üzerinden bize ulaşabilirsiniz. Video çekiminden sonra eklenen yeni özellikler bu anlatımda yer almayabilir.",
     "butonlar": [
       {
         "yazi": "Telegram Destek",
@@ -26,6 +26,12 @@
       "tarih": "04.07.2026",
       "metin": "Marketim masaüstü programı için güncel indirme bağlantısı.",
       "link": "https://drive.google.com/file/d/1yQa1csjHsEU5WuqFtV4NXdK1Zm7WYkYG/view?usp=sharing"
+    },
+    {
+      "baslik": "🧪 Marketim Masaüstü Beta Sürüm",
+      "tarih": "13.07.2026",
+      "metin": "XML/ZIP fatura yükleme, akıllı ürün eşleştirme, özel matrah, bedelsiz ürün, tartılı ürün uyarısı ve fatura bilgilerini kopyalama destekleri içeren beta sürüm.",
+      "link": "https://drive.google.com/file/d/13bv6ctmY2YCk7hvvCBItjeT1nspzBdzu/view?usp=sharing"
     }
   ],
   "videolar": [
