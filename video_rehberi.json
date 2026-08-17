@@ -23,6 +23,13 @@
       "qr_goster": true
     },
     {
+      "baslik": "💻 Marketim Masaüstü 10.51",
+      "tarih": "17.08.2026",
+      "metin": "• İndirme ve bağlantı QR kod eklendi.",
+      "link": "https://drive.google.com/file/d/1JPABaomvDD7UTjMNpPFZkxUknDsTmK5K/view?usp=sharing",
+      "qr_goster": false
+    },
+    {
       "baslik": "💻 Marketim Masaüstü 10.50",
       "tarih": "10.08.2026",
       "metin": "• Eski yedek uyumluluğu iyileştirildi\n• `marketim_db` yedeği geri yüklendikten sonra eksik kullanıcı ve müşteri tablo alanları otomatik tamamlanır.\n• Bu sayede eski yedeklerden sonra masaüstü cari işlemleri ve Android girişinde oluşan eksik kolon hataları giderildi.",
