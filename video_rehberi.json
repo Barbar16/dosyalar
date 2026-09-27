@@ -16,12 +16,19 @@
   },
   "duyurular": [
     {
-      "baslik": "📱 Marketim Android 1.0.3",
-      "tarih": "06.08.2026",
+      "baslik": "📱 Marketim Android 1.0.4",
+      "tarih": "27.09.2026",
       "metin": "Marketim Android uygulamasını indirip telefonunuzdan satış, stok ve tedarik işlemlerini yönetebilirsiniz.\n• Sunucuya bağlanarak aynı anda sunucuda yapılan tüm işlemleri yapabilirsiniz.\n• Offline çalışma modunda da tüm işlemleri yapabilir sonradan sunucuya aktarabilirsiniz",
-      "link": "https://drive.google.com/file/d/1rNSn1YsDcNQT5_xqEj1binHo_Sh-D6ux/view?usp=sharing",
+      "link": "https://drive.google.com/file/d/1lO6pnE17nEdO8oDF6aTWSxoQuocYICsX/view?usp=drive_link",
       "qr_goster": true
     },
+    {
+      "baslik": "💻 Marketim Masaüstü 10.55",
+      "tarih": "27.09.2026",
+      "metin": "• KDV entegre edildi, Otomatik sipariş geliştirildi.",
+      "link": "https://drive.google.com/file/d/1KGbpSlNj--gJjxkZfJVMdVg-Fy4LR4dY/view?usp=sharing",
+      "qr_goster": false
+     },
     {
       "baslik": "💻 Marketim Masaüstü 10.54",
       "tarih": "18.09.2026",
