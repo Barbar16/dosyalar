@@ -23,61 +23,12 @@
       "qr_goster": true
     },
     {
-      "baslik": "💻 Marketim Masaüstü 10.55",
-      "tarih": "27.09.2026",
-      "metin": "• KDV entegre edildi, Otomatik sipariş geliştirildi.\n• Satış sayfası arayüzü güncellendi",
-      "link": "https://drive.google.com/file/d/1t0EhkVlIf1kInzvhx9Cj_uuHlsYAEwvM/view?usp=sharing",
+      "baslik": "💻 Marketim Masaüstü 10.56",
+      "tarih": "09.10.2026",
+      "metin": "• KDV entegre edildi, Otomatik sipariş geliştirildi.\n• Satış sayfası arayüzü güncellendi.\n• Tartı desteği eklendi (test).\n• Web üzerinden ürün fiyat araştırma moduku entegre edildi.",
+      "link": "https://drive.google.com/file/d/1quH8gT3azfOKABxDR8A35DntaZEEJvCJ/view?usp=sharing",
       "qr_goster": false
-     },
-    {
-      "baslik": "💻 Marketim Masaüstü 10.54",
-      "tarih": "18.09.2026",
-      "metin": "• Otomatik sipariş geliştirildi, ana menü genişletilip düzenlendi.",
-      "link": "https://drive.google.com/file/d/1aCo-fYLPjLsuiK8KfsepBCsPPEgcWwdy/view?usp=sharing",
-      "qr_goster": false
-     },
-    {
-      "baslik": "💻 Marketim Masaüstü 10.53",
-      "tarih": "16.09.2026",
-      "metin": "• Çoklu Banka pos kesintisi eklendi.Kategori bazlı analiz iyileştirildi",
-      "link": "https://drive.google.com/file/d/1TMIEnAZ6VPJ6TosB6vYx5Mt1YZvbV1Zd/view?usp=sharing",
-      "qr_goster": false
-     },
-      {
-      "baslik": "💻 Marketim Masaüstü 10.52",
-      "tarih": "06.09.2026",
-      "metin": "• Yapay zeka raporlama desteği (beta).",
-      "link": "https://drive.google.com/file/d/1FffrlQePlWAvjXRx6YjdHpKQh8wSPaQJ/view?usp=sharing",
-      "qr_goster": false
-    },
-    {
-      "baslik": "💻 Marketim Masaüstü 10.51",
-      "tarih": "17.08.2026",
-      "metin": "• İndirme ve bağlantı QR kod eklendi.",
-      "link": "https://drive.google.com/file/d/1BmZ4Mp6RsLggThr26oo9_1Eh-WWOq4fx/view?usp=sharing",
-      "qr_goster": false
-    },
-    {
-      "baslik": "💻 Marketim Masaüstü 10.50",
-      "tarih": "10.08.2026",
-      "metin": "• Eski yedek uyumluluğu iyileştirildi\n• `marketim_db` yedeği geri yüklendikten sonra eksik kullanıcı ve müşteri tablo alanları otomatik tamamlanır.\n• Bu sayede eski yedeklerden sonra masaüstü cari işlemleri ve Android girişinde oluşan eksik kolon hataları giderildi.",
-      "link": "https://drive.google.com/file/d/1Fn2txJIQ-O-dcixR-ouNw5DDSO-0p081/view?usp=sharing",
-      "qr_goster": false
-    },
-    {
-      "baslik": "💻 Marketim Masaüstü 10.49",
-      "tarih": "09.08.2026",
-      "metin": "• Tedarik sıfır ürün bug düzeltildi",
-      "link": "https://drive.google.com/file/d/1H7wEqGYcifcmmanK-fhCGA1aHj_hkErE/view?usp=sharing",
-      "qr_goster": false
-    },
-    {
-      "baslik": "💻 Marketim Masaüstü 10.48",
-      "tarih": "06.08.2026",
-      "metin": "• XML/ZIP fatura yükleme\n• Akıllı ürün eşleştirme\n• Özel matrah desteği\n• Bedelsiz ürün desteği\n• Tartılı ürün uyarısı\n• Fatura bilgilerini kopyalama",
-      "link": "https://drive.google.com/file/d/1umndEaLcs2AslI9NSdhE37p0Vx7Q8THQ/view?usp=drive_link",
-      "qr_goster": false
-    }
+     }
   ],
   "videolar": [
     {
